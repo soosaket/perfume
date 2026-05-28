@@ -145,6 +145,7 @@ export default function Footer() {
         <div>
           &copy; {currentYear} SWAVIK Fabric Perfumes. All Rights Reserved. Crafted for Olfactory Excellence.
         </div>
+        <div>made with ❤️ by <a href="https://instagram.com/soosaket/" target="_blank"><b style={{color:"white"}}>@saket</b></a>  </div>
         <div className="flex items-center gap-6">
           <Link href="/about" className="hover:text-gold transition-colors">
             Our Heritage
